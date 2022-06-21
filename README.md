@@ -4,7 +4,7 @@ el proyecto fue realizado en el id spring tool suite 4 con el springboot 7, la b
 aplication properties esta hecha para que la base de datos este alojada en el, en caso de cambiarla, se debe hacer respecto al nuevo id y actualizar la configuracion del
 aplication properties,
 se crearon las funcionalidades del crud para actualizar, insertar, borrar y crear un buevo registro de la tabla arrays, ademas de las funcionalidades para consultar la respuesta
-de la practica en el postman, se usaron las siguientes configuraciones, para consultar pasando el parametro por url:
+de la practica en el postman, se usaron las siguientes configuraciones, para consultar pasando el parametro por url (primero el id de la pila a evaluar y luego el numero de iteraciones):
 ![image](https://user-images.githubusercontent.com/107932863/174833287-d22fe232-edba-4c8a-ac69-4c2de85915f2.png)
 
 por urlnencoded
